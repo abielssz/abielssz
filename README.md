@@ -1,9 +1,11 @@
-## Olá Eu sou o Abiel
-Sou Desenvolvedor Front-End
-Apaixonado em tecnologia
-buscando conhecimento em Back-End
+## Name: Abiel Santana
 
-Estudante
+Data Science | Data Analytics | Machine Learning
+
+Apaixonado e Estudante de tecnologia
+buscando conhecimento constante na área de Dados & Back-End
+
+
 
 [![abielssz](https://github-readme-stats.vercel.app/api?username=abielssz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
